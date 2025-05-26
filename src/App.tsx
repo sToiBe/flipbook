@@ -6,7 +6,7 @@ function App() {
     return (
         <>
             <div
-                className="flex justify-center items-center sm:p-8 w-screen h-screen overflow-hidden">
+                className="flex justify-center items-center px-2 sm:p-8 w-screen h-screen overflow-hidden">
                 <div className="w-full h-full flex justify-center items-center">
                     <Book/>
                 </div>
